@@ -1,4 +1,4 @@
-# Voice Controlled React News Application - Alan AI Voice Assistant
+# Voice Controlled React Application - Alan AI Voice Assistant
 
 ## Introduction
 
